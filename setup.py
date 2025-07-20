@@ -11,6 +11,7 @@ setup(
         "langchain>=0.3.25",
         "langchain-openai>=0.3.18",
         "langgraph>=0.4.8",
+        "mlflow>=2.22.0",
         "numpy>=1.26.0",
     ],
     python_requires=">=3.10",
